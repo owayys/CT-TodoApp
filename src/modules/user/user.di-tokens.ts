@@ -1,0 +1,2 @@
+export const USER_REPOSITORY = Symbol('USER_REPOSITORY');
+export const USER_REPOSITORY_PATH = Symbol('USER_REPOSITORY_PATH');
